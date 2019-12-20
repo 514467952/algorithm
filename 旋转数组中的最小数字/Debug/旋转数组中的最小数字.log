@@ -1,0 +1,21 @@
+﻿生成启动时间为 2019/12/20 21:02:50。
+     1>项目“E:\experience\c++\60--bit---2\旋转数组中的最小数字\旋转数组中的最小数字.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt "源.cpp"
+         源.cpp
+     1>e:\experience\c++\60--bit---2\旋转数组中的最小数字\源.cpp(6): error C2061: 语法错误: 标识符“vector”
+     1>e:\experience\c++\60--bit---2\旋转数组中的最小数字\源.cpp(7): error C2065: “rotateArray”: 未声明的标识符
+     1>e:\experience\c++\60--bit---2\旋转数组中的最小数字\源.cpp(7): error C2228: “.begin”的左边必须有类/结构/联合
+                 类型是“unknown-type”
+     1>e:\experience\c++\60--bit---2\旋转数组中的最小数字\源.cpp(7): error C2228: “.end”的左边必须有类/结构/联合
+                 类型是“unknown-type”
+     1>e:\experience\c++\60--bit---2\旋转数组中的最小数字\源.cpp(7): error C2780: “void std::sort(_RanIt,_RanIt)”: 应输入 2 个参数，却提供了 1 个
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\algorithm(3162) : 参见“std::sort”的声明
+     1>e:\experience\c++\60--bit---2\旋转数组中的最小数字\源.cpp(7): error C2780: “void std::sort(_RanIt,_RanIt,_Pr)”: 应输入 3 个参数，却提供了 1 个
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\algorithm(3153) : 参见“std::sort”的声明
+     1>e:\experience\c++\60--bit---2\旋转数组中的最小数字\源.cpp(8): error C2065: “rotateArray”: 未声明的标识符
+     1>已完成生成项目“E:\experience\c++\60--bit---2\旋转数组中的最小数字\旋转数组中的最小数字.vcxproj”(Build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:01.18
